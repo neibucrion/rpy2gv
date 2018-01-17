@@ -1,0 +1,7 @@
+digraph {
+	node [color="#000000" fillcolor="#ffffff" fontname=Arial shape=ellipse style=filled]
+			start -> accord
+			start -> sur
+			accord -> finale
+			sur -> finale
+}
